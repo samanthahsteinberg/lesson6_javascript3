@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Samantha Steinberg)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we used the concepts of DOM and Javascript to make a successful photo gallery that is functional.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://samanthahsteinberg.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Introduced and learned the Document Object Model.)
+2. (Leared how the Document Object Model and JavaScript are related and work together. )
+3. (Saw how Dynamic HyperText Markup Language interacts with the coding process.)
 
